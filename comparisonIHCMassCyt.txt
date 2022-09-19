@@ -1,0 +1,97 @@
+ID	value	celltype	variable	
+1026	68.2	CD4	fracTot	
+1182	45.5	CD4	fracTot	
+1326	49.6	CD4	fracTot	
+1363	61.3	CD4	fracTot	
+1026	10.2	CD8	fracTot	
+1182	20.1	CD8	fracTot	
+1326	13.6	CD8	fracTot	
+1363	11	CD8	fracTot	
+1026	6.68627451	CD4/CD8	fracTot	
+1182	2.263681592	CD4/CD8	fracTot	
+1326	3.647058824	CD4/CD8	fracTot	
+1363	5.572727273	CD4/CD8	fracTot	
+1026	84.8	CD4	fracSub	
+1182	66.6	CD4	fracSub	
+1326	77.1	CD4	fracSub	
+1363	82.8	CD4	fracSub	
+1026	12.7	CD8	fracSub	
+1182	29.5	CD8	fracSub	
+1326	21.2	CD8	fracSub	
+1363	14.8	CD8	fracSub	
+1026	6.677165354	CD4/CD8	fracSub	
+1182	2.257627119	CD4/CD8	fracSub	
+1326	3.636792453	CD4/CD8	fracSub	
+1363	5.594594595	CD4/CD8	fracSub	
+1026	68.6	CD4	fieldFrac	
+1182	51.4	CD4	fieldFrac	
+1326	87.6	CD4	fieldFrac	
+1363	87.7	CD4	fieldFrac	
+1026	14.3	CD8	fieldFrac	
+1182	24.8	CD8	fieldFrac	
+1326	23.1	CD8	fieldFrac	
+1363	21.4	CD8	fieldFrac	
+1026	4.797202797	CD4/CD8	fieldFrac	
+1182	2.072580645	CD4/CD8	fieldFrac	
+1326	3.792207792	CD4/CD8	fieldFrac	
+1363	4.098130841	CD4/CD8	fieldFrac	
+1026	82	CD4	countHoug	
+1182	58.9	CD4	countHoug	
+1326	88.9	CD4	countHoug	
+1363	88.1	CD4	countHoug	
+1026	48.6	CD8	countHoug	
+1182	36.7	CD8	countHoug	
+1326	35.2	CD8	countHoug	
+1363	34.4	CD8	countHoug	
+1026	1.687242798	CD4/CD8	countHoug	
+1182	1.604904632	CD4/CD8	countHoug	
+1326	2.525568182	CD4/CD8	countHoug	
+1363	2.561046512	CD4/CD8	countHoug	
+1182	15.1	CD4	fieldFrac_tumor	
+1326	38.3	CD4	fieldFrac_tumor	
+1363	43	CD4	fieldFrac_tumor	
+1182	6.7	CD8	fieldFrac_tumor	
+1326	3.3	CD8	fieldFrac_tumor	
+1363	6.4	CD8	fieldFrac_tumor	
+1182	2.253731343	CD4/CD8	fieldFrac_tumor	
+1326	11.60606061	CD4/CD8	fieldFrac_tumor	
+1363	6.71875	CD4/CD8	fieldFrac_tumor	
+1182	26.6	CD4	countHoug_tumor	
+1326	42.9	CD4	countHoug_tumor	
+1363	49.5	CD4	countHoug_tumor	
+1182	14	CD8	countHoug_tumor	
+1326	7.45	CD8	countHoug_tumor	
+1363	12.5	CD8	countHoug_tumor	
+1182	1.9	CD4/CD8	countHoug_tumor	
+1326	5.758389262	CD4/CD8	countHoug_tumor	
+1363	3.96	CD4/CD8	countHoug_tumor	
+1182	57.7	AE1AE3	field frac_tot	
+1326	2.8	AE1AE3	field frac_tot	
+1363	6.1	AE1AE3	field frac_tot	
+1182	96.6	AE1AE3	field frac_tum	
+1326	89.3	AE1AE3	field frac_tum	
+1363	85.2	AE1AE3	field frac_tum	
+1182	55.4	AE1AE3	countHoug_tot	
+1326	8	AE1AE3	countHoug_tot	
+1363	12	AE1AE3	countHoug_tot	
+1182	96.9	AE1AE3	countHoug_tum	
+1326	90.5	AE1AE3	countHoug_tum	
+1363	86.8	AE1AE3	countHoug_tum	
+1182	85.2	CD4	fieldfrac_min_ tumor	
+1326	88.0	CD4	fieldfrac_min_ tumor	
+1363	88.8	CD4	fieldfrac_min_ tumor	
+1182	47.0	CD8	fieldfrac_min_ tumor	
+1326	23.4	CD8	fieldfrac_min_ tumor	
+1363	22.0	CD8	fieldfrac_min_ tumor	
+1182	1.8	CD4/CD8	fieldfrac_min_ tumor	
+1326	3.8	CD4/CD8	fieldfrac_min_ tumor	
+1363	4.0	CD4/CD8	fieldfrac_min_ tumor	
+1182	88.4	CD4	countHoug_min_tumor	
+1326	89.2	CD4	countHoug_min_tumor	
+1363	89.2	CD4	countHoug_min_tumor	
+1182	58.0	CD8	countHoug_min_tumor	
+1326	35.6	CD8	countHoug_min_tumor	
+1363	35.3	CD8	countHoug_min_tumor	
+1182	1.524137931	CD4/CD8	countHoug_min_tumor	
+1326	2.505617978	CD4/CD8	countHoug_min_tumor	
+1363	2.526912181	CD4/CD8	countHoug_min_tumor	

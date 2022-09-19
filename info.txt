@@ -1,0 +1,7 @@
+the attached files consist of:
+
+clinical file: clinical information
+Tumorcell_CyTOF: percentage and event count of positive tumor cells (live and dead)
+Cellpopulations_abundance: fractions of cell populations, manually gated cell populations
+ExpressionCell_xxxxx: expression of all markers on each cell subpopulation_ One file for each subpopulation
+comparisonIHCMassCyt: comparison between immunohistochemisty (IHC) and Mass cytometry data
